@@ -1,0 +1,902 @@
+% This file was created with JabRef 2.10.
+% Encoding: UTF-8
+
+
+@Article{Adelantado2017,
+  Title                    = {{Understanding the limits of LoRaWAN}},
+  Author                   = {Adelantado, F and Vilajosana, X},
+  Journal                  = {IEEE},
+  Year                     = {2017},
+
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Adelantado, Vilajosana - 2017 - Understanding the limits of LoRaWAN.pdf:pdf},
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18},
+  Url                      = {http://ieeexplore.ieee.org/abstract/document/8030482/}
+}
+
+@Book{Akyildiz2010,
+  Title                    = {{Wireless Sensor Networks}},
+  Author                   = {Akyildiz, Ian F. and Vuran, Mehmet Can},
+  Year                     = {2010},
+
+  Abstract                 = {This book presents an in-depth study on the recent advances in Wireless Sensor Networks (WSNs). The authors describe the existing WSN applications and discuss the research efforts being undertaken in this field. Theoretical analysis and factors influencing protocol design are also highlighted. The authors explore state-of-the-art protocols for WSN protocol stack in transport, routing, data link, and physical layers. Moreover, the synchronization and localization problems in WSNs are investigated along with existing solutions. Furthermore, cross-layer solutions are described. Finally, developing areas of WSNs including sensor-actor networks, multimedia sensor networks, and WSN applications in underwater and underground environments are explored. The book is written in an accessible, textbook style, and includes problems and solutions to assist learning. Key Features: The ultimate guide to recent advances and research into WSNs Discusses the most important problems and issues that arise when programming and designing WSN systems Shows why the unique features of WSNs – self-organization, cooperation, correlation -- will enable new applications that will provide the end user with intelligence and a better understanding of the environment Provides an overview of the existing evaluation approaches for WSNs including physical testbeds and software simulation environments Includes examples and learning exercises with a solutions manual; supplemented by an accompanying website containing PPT-slides. Wireless Sensor Networks is an essential textbook for advanced students on courses in wireless communications, networking and computer science. It will also be of interest to researchers, system and chip designers, network planners, technical mangers and other professionals in these fields.},
+  Booktitle                = {Zhurnal Eksperimental'noi i Teoreticheskoi Fiziki},
+  Doi                      = {10.1002/9780470515181},
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Akyildiz, Vuran - 2010 - Wireless Sensor Networks.pdf:pdf},
+  ISBN                     = {9780470515181},
+  Owner                    = {darwin},
+  Pages                    = {516},
+  Timestamp                = {2018.11.18}
+}
+
+@TechReport{Committee2017,
+  Title                    = {{LoRaWAN™ 1.0.2 Regional Parameters}},
+  Author                   = {Alliance, LoRa},
+  Year                     = {2017},
+
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Committee - 2017 - LoRaWAN™ 1.0.2 Regional Parameters.pdf:pdf},
+  Owner                    = {darwin},
+  Pages                    = {1--55},
+  Timestamp                = {2018.11.18}
+}
+
+@Misc{Anthonykirby,
+  Title                    = {{LoRaWAN packet decoder}},
+
+  Author                   = {Anthonykirby},
+
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18},
+  Url                      = {https://lorawan-packet-decoder-0ta6puiniaut.runkit.sh/?data=QBTTGgCAAAAFTmIoiUo6uQ{\%}3D{\%}3D},
+  Urldate                  = {2017-10-01}
+}
+
+@InProceedings{Aref2014,
+  Title                    = {{Free space range measurements with Semtech LoRa technology}},
+  Author                   = {Aref, Mohamed and Sikora, Axel},
+  Booktitle                = {Wireless Systems within the Conferences on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications (IDAACS-SWS), 2014 2nd International Symposium on},
+  Year                     = {2014},
+  Number                   = {September},
+  Pages                    = {19--23},
+
+  Abstract                 = {Although short range wireless communication explicitly targets local and very regional applications, range continues to be an extremely important issue. The range directly depends on the so called link budget, which can be increased by the choice of modulation and coding schemes. Especially, the recent transceiver generation comes with extensive and flexible support for Software Defined Radio (SDR). The SX127x family from Semtech Corp. is a member of this device class and promises significant benefits for range, robust performance, and battery lifetime compared to competing technologies. This contribution gives a short overview into the technologies to support Long Range (LoRa {\&}{\#}x2122;), describes the outdoor setup at the Laboratory Embedded Systems and Communication Electronics of Offenburg University of Applied Sciences, shows detailed measurement results and discusses the strengths and weaknesses of this technology.},
+  Doi                      = {10.1109/IDAACS-SWS.2014.6954616},
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Aref, Sikora - 2014 - Free space range measurements with Semtech LoRa technology.pdf:pdf},
+  ISBN                     = {9781479967223},
+  Journal                  = {2014 2nd International Symposium on Wireless Systems within the Conferences on Intelligent Data Acquisition and Advanced Computing Systems, IDAACS-SWS 2014},
+  Keywords                 = {Spread spectrum,packet error rate,software defined radio}
+}
+
+@Misc{FabianAstudillo2016,
+  Title                    = {{Aplicaci{\'{o}}n de tecnolog{\'{i}}as inal{\'{a}}mbricas al sistema de predicci{\'{o}}n de caudales en la cuenca del r{\'{i}}o Tomebamba}},
+
+  Author                   = {Astudillo, Fabi{\'{a}}n and V{\'{a}}zquez, Andr{\'{e}}s},
+  Year                     = {2016},
+
+  File                     = {:D$\backslash$:/Users/pavil/MEGA/LoRaTesis/Documentos/Otros/Anexo 01{\_}FORMULARIO{\_}PROPUESTA{\_}DIUC.pdf:pdf},
+  Owner                    = {darwin},
+  Pages                    = {1--10},
+  Timestamp                = {2018.11.18}
+}
+
+@Article{Augustin2016,
+  Title                    = {{A Study of LoRa: Long Range {\&} Low Power Networks for the Internet of Things}},
+  Author                   = {Augustin, Alo{\"{y}}s and Yi, Jiazi and Clausen, Thomas and Townsley, William},
+  Journal                  = {Sensors},
+  Year                     = {2016},
+  Number                   = {9},
+  Pages                    = {1466},
+  Volume                   = {16},
+
+  Abstract                 = {LoRa is a long-range, low-power, low-bitrate, wireless telecommunications system, promoted as an infrastructure solution for the Internet of Things: end-devices use LoRa across a single wireless hop to communicate to gateway(s), connected to the Internet and which act as transparent bridges and relay messages between these end-devices and a central network server. This paper provides an overview of LoRa and an in-depth analysis of its functional components. The physical and data link layer performance is evaluated by field tests and simulations. Based on the analysis and evaluations, some possible solutions for performance enhancements are proposed.},
+  Doi                      = {10.3390/s16091466},
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Augustin et al. - 2016 - A Study of LoRa Long Range {\&} Low Power Networks for the Internet of Things.pdf:pdf},
+  ISSN                     = {1424-8220},
+  Keywords                 = {internet of things,long range,lora,low power},
+  Owner                    = {darwin},
+  Pmid                     = {27618064},
+  Timestamp                = {2018.11.18},
+  Url                      = {http://www.mdpi.com/1424-8220/16/9/1466}
+}
+
+@Article{Bardyn2016,
+  Title                    = {{IoT: The era of LPWAN is starting now}},
+  Author                   = {Bardyn, JP and Melly, T and Seller, O},
+  Journal                  = {European Solid-State},
+  Year                     = {2016},
+
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18},
+  Url                      = {http://ieeexplore.ieee.org/abstract/document/7598235/}
+}
+
+@Article{Baronti2007,
+  Title                    = {{A survey on the state of the art and the 802.15.4 and ZigBee standards}},
+  Author                   = {Baronti, P and Pillai, P and Chook, VW and Chessa, S and Gotta, A},
+  Journal                  = {Computer communications},
+  Year                     = {2007},
+
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18}
+}
+
+@Article{BluetoothSIG,
+  Title                    = {{Bluetooth Core Specification 5.0}},
+  Author                   = {{Bluetooth SIG}, Inc},
+
+  Abstract                 = {Key features and benefits of using Bluetooth 5.0 Increased bandwidth for Bluetooth {\textregistered} technology with low energy Bluetooth 5.0 introduces a new capability to increase the bandwidth to 2 Mbps. By doubling the amount of data that devices can transfer, Bluetooth 5.0 reduces the time required for transmitting and receiving data, facilitating rapid and reliable over-the-air firmware updates for mobile devices and fast upload of days' worth of collected data from a sensor when a mobile device is turned on. Increased range for low energy enables whole-home, building, or location coverage Bandwidth can be decreased to achieve up to 4x longer range while maintaining similar power requirements. With quadruple the range over which their devices can transmit and receive data, product designers creating home automation and security solutions can provide coverage of an entire home, building, or locality. The range can be tuned for a variety of environments. Not every application requires the same range, speed or broadcasting capability. Bluetooth 5.0 provides the flexibility for a developer to make the best choice for their implementation.},
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Unknown - Unknown - Bluetooth Core Specification 5.0 FAQ.pdf:pdf},
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18},
+  Url                      = {http://www.mouser.com/pdfdocs/bluetooth-5-faq.pdf}
+}
+
+@Article{Bor2017,
+  Title                    = {{LoRa Transmission Parameter Selection}},
+  Author                   = {Bor, M and Roedig, U},
+  Journal                  = {Proceedings of the 13th IEEE International},
+  Year                     = {2017},
+
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Bor, Roedig - 2017 - LoRa Transmission Parameter Selection.pdf:pdf},
+  Url                      = {http://www.research.lancs.ac.uk/portal/services/downloadRegister/164374357/lora{\_}tps{\_}r1342.pdf}
+}
+
+@Article{C,
+  Title                    = {{LoRa for the Internet of Things}},
+  Author                   = {Bor, Martin and Vidler, John and Roedig, Utz},
+  Journal                  = {Proceedings of the 2016 International Conference on Embedded Wireless Systems and Networks},
+  Year                     = {2016},
+  Pages                    = {361--366},
+
+  Abstract                 = {New transceiver technologies have emerged which enable power efficient communication over very long distances. Ex- amples of such Low-Power Wide-Area Network (LPWAN) technologies are LoRa, Sigfox and Weightless. A typical application scenario for these technologies is city wide me- ter reading collection where devices send readings at very low frequency over a long distance to a data concentra- tor (one-hop networks). We argue that these transceivers are potentially very useful to construct more generic Inter- net of Things (IoT) networks incorporating multi-hop bi- directional communication enabling sensing and actuation. Furthermore, these transceivers have interesting features not available with more traditional transceivers used for IoT net- works which enable construction of novel protocol elements. In this paper we present a performance and capability analysis of a currently available LoRa transceiver. We de- scribe its features and then demonstrate howsuch transceiver can be put to use efficiently in a wide-area application sce- nario. In particular we demonstrate how unique features such as concurrent non-destructive transmissions and car- rier detection can be employed. Our deployment experiment demonstrates that 6 LoRa nodes can form a network covering 1.5 ha in a built up environment, achieving a potential life- time of 2 year on 2 AA batteries and delivering data within 5 s and reliability of 80{\%}.},
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Bor, Vidler, Roedig - 2016 - LoRa for the Internet of Things.pdf:pdf},
+  ISBN                     = {978-0-9949886-0-7},
+  Keywords                 = {IoT,LoRa,Medium Access Control (MAC)}
+}
+
+@Article{Bose2007,
+  Title                    = {{A practical path loss model for indoor WiFi positioning enhancement}},
+  Author                   = {Bose, A and Foh, CH},
+  Journal                  = {{\&} Signal Processing, 2007 6th International {\ldots}},
+  Year                     = {2007},
+
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Bose, Foh - 2007 - A practical path loss model for indoor WiFi positioning enhancement.pdf:pdf},
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18},
+  Url                      = {http://ieeexplore.ieee.org/abstract/document/4449717/}
+}
+
+@Article{Centenaro2016,
+  Title                    = {{Long-range communications in unlicensed bands: the rising stars in the IoT and smart city scenarios}},
+  Author                   = {Centenaro, Marco and Vangelista, Lorenzo and Zanella, Andrea and Zorzi, Michele},
+  Journal                  = {IEEE Wireless Communications},
+  Year                     = {2016},
+
+  Month                    = {oct},
+  Number                   = {5},
+  Pages                    = {60--67},
+  Volume                   = {23},
+
+  Doi                      = {10.1109/MWC.2016.7721743},
+  ISSN                     = {1536-1284},
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18},
+  Url                      = {http://ieeexplore.ieee.org/document/7721743/}
+}
+
+@InCollection{Chamorro2008,
+  Title                    = {{Gu{\'{i}}a de Hidrometr{\'{i}}a de Aguas Superficiales}},
+  Author                   = {Chamorro, Gradys},
+  Year                     = {2008},
+
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Gladys, Chamorro, Rodr{\'{i}}guez - 2008 - Directora de Hidrolog{\'{i}}a Operativa.pdf:pdf},
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18},
+  Url                      = {http://www.senamhi.gob.pe/pdf/aprendiendohidrometria.pdf}
+}
+
+@Article{Chung2016,
+  Title                    = {{Enhancing node connectivity by utilizing RSSI for ZigBee-based WSN}},
+  Author                   = {Chung, Sung Min and Kim, Kyung Tae and Song, Junseok and Youn, Hee Yong},
+  Journal                  = {2016 International Conference on Information and Communication Technology Convergence, ICTC 2016},
+  Year                     = {2016},
+  Pages                    = {555--560},
+
+  Doi                      = {10.1109/ICTC.2016.7763532},
+  File                     = {:D$\backslash$:/Users/pavil/MEGA/LoRaTesis/Bibliografia/RSSI/chung2016.pdf:pdf},
+  ISBN                     = {9781509013258},
+  Keywords                 = {Gaussian filtering,Isolated node,RSSI,Wireless sensor network,ZigBee},
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18}
+}
+
+@InProceedings{felipeartificial,
+  Title                    = {{Artificial neural networks applied to flow prediction scenarios in Tomebamba River-Paute watershed, for flood and water quality control and management at City of Cuenca Ecuador}},
+  Author                   = {Felipe, Cisneros and Jaime, Veintimilla and Pablo, Vanegas and PROMAS, Cuenca Ecuador},
+  Booktitle                = {EGU General Assembly Conference Abstracts},
+  Year                     = {2013},
+
+  Owner                    = {darwin},
+  Timestamp                = {2018.04.03}
+}
+
+@Article{Georgiou2017,
+  Title                    = {{Low Power Wide Area Network Analysis: Can LoRa Scale?}},
+  Author                   = {Georgiou, Orestis and Raza, Usman},
+  Journal                  = {IEEE Wireless Communications Letters},
+  Year                     = {2017},
+  Number                   = {2},
+  Pages                    = {162--165},
+  Volume                   = {6},
+
+  Abstract                 = {Low Power Wide Area (LPWA) networks are making spectacular progress from design, standardisation, to commercialisation. At this time of fast-paced adoption, it is of utmost importance to analyse how well these technologies will scale as the number of devices connected to the Internet of Things (IoT) inevitably grows. In this letter, we provide a stochastic geometry framework for modelling the performance of a single gateway LoRa network, a leading LPWA technology. Our analysis formulates unique peculiarities of LoRa, including its chirp spread-spectrum modulation technique, regulatory limitations on radio duty cycle, and use of ALOHA protocol on top, all of which are not as common in today's commercial cellular networks. We show that the coverage probability drops exponentially as the number of end-devices grows due to interfering signals using the same spreading sequence. We conclude that this fundamental limiting factor is perhaps more significant towards LoRa scalability than for instance spectrum restrictions. Our derivations for co-spreading factor interference found in LoRa networks enables rigorous scalability analysis of such networks.},
+  Archiveprefix            = {arXiv},
+  Arxivid                  = {arXiv:1610.04793v1},
+  Doi                      = {10.1109/LWC.2016.2647247},
+  Eprint                   = {arXiv:1610.04793v1},
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Georgiou, Raza - 2017 - Low Power Wide Area Network Analysis Can LoRa Scale.pdf:pdf},
+  ISSN                     = {21622345},
+  Keywords                 = {Low power wide area networks,interference analysis,outage probability,stochastic geometry,wireless communications}
+}
+
+@Article{Gregora2016,
+  Title                    = {{Indoor Signal Propagation of LoRa Technology}},
+  Author                   = {Gregora, Lukas and Vojtech, Lukas and Neruda, Marek},
+  Journal                  = {2016 17th International Conference on Mechatronics - Mechatronika (ME)},
+  Year                     = {2016},
+  Pages                    = {13--16},
+
+  Abstract                 = {—With an increasing number of small devices, the concept of LPWANs becomes more popular. The most important requirements on LPWANs include long battery lifetime, low price of devices, ability to connect millions of devices and long range coverage; the long range coverage is the most critical issue of this technology. In this paper we discuss indoor signal propagation of LoRa technology. At the beginning of the paper, there is an introduction to LoRa technology. Later, the paper presents a measurement of an indoor propagation of LoRa signal in a reinforced concrete building in Prague, the Czech Republic. The measurement is realized with one mobile transmitter and one receiver with a fixed location for each experiment. The measurement is performed for two experiments, one with the receiver in the basement of the building, one with the receiver on the roof of the building. Results of the measurement are graphically visualized for both measurement experiments at the end of this paper and show that the best signal coverage is for the roof location, where it includes also flats of neighboring entrances.},
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Gregora, Vojtech, Neruda - 2016 - Indoor Signal Propagation of LoRa Technology.pdf:pdf},
+  ISBN                     = {9788001058831},
+  Keywords                 = {-attenuation,coverage,indoor propagation,iot,lora}
+}
+
+@Article{Haghighi2017,
+  Title                    = {{Game theoretic and auction-based algorithms towards opportunistic communications in LPWA LoRa networks}},
+  Author                   = {Haghighi, Mo and Qin, Zhijin and Carboni, Davide and Adeel, Usman and Shi, Fengrui and McCann, Julie A.},
+  Journal                  = {2016 IEEE 3rd World Forum on Internet of Things, WF-IoT 2016},
+  Year                     = {2017},
+  Pages                    = {735--740},
+
+  Abstract                 = {{\textcopyright} 2016 IEEE.Low Power Wide Area (LPWA) networks have been the enabling technology for large-scale sensor and actuator networks. Low cost, energy-efficiency and longevity of such networks make them perfect candidates for smart city applications. LoRa is a new LPWA standard based on spread spectrum technology, which is suitable for sensor nodes enabling long battery life and bi-directional communication but with low data rates. In this paper, we will demonstrate a use-case inspired model in which, end-nodes with multiple radio transceivers (LoRa/WiFi/BLE) have the option to interconnect via multiple networks to improve communications resilience under the diverse conditions of a smart city of a billion devices. To facilitate this, each node has the ability to switch radio communications opportunistically and adaptively, and this is based on the application requirements and dynamic radio parameters.},
+  Doi                      = {10.1109/WF-IoT.2016.7845517},
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Haghighi et al. - 2017 - Game theoretic and auction-based algorithms towards opportunistic communications in LPWA LoRa networks.pdf:pdf},
+  ISBN                     = {9781509041305},
+  Keywords                 = {Auction,Edge,Game theory,IoT,LPWA,LoRa,Smart City,Utility,WSN}
+}
+
+@Article{Harvanova2011,
+  Title                    = {{Implementing ZigBee network in forest regions - Considerations, modeling and evaluations}},
+  Author                   = {Harvanova, Valeria and Krajcovic, Tibor},
+  Journal                  = {2011 International Conference on Applied Electronics},
+  Year                     = {2011},
+  Pages                    = {1--4},
+
+  Abstract                 = {The objective of this paper is to provide a comprehensive review of radio wave propagation through the forest, with a focus on the evaluation of propagation loss. We present considerations that, according to our belief, should be taken into account when designing a wireless sensor network system to be deployed in a forest environment. Apart from theoretical analysis we present evaluation of example data measured using two ZigBee communication devices operating on frequency 868MHz.},
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Harvanova, Krajcovic - 2011 - Implementing ZigBee network in forest regions - Considerations, modeling and evaluations.pdf:pdf},
+  ISBN                     = {978-1-4577-0315-7},
+  ISSN                     = {1803-7232},
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18}
+}
+
+@Misc{Helmenstine,
+  Title                    = {{Calculate Percent Error}},
+
+  Author                   = {Helmenstine, Todd},
+
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18},
+  Url                      = {https://sciencenotes.org/calculate-percent-error/},
+  Urldate                  = {2017-10-07}
+}
+
+@Article{Iswandi2017,
+  Title                    = {{Evaluation of XBee-Pro transmission range for Wireless Sensor Network's node under forested environments based on Received Signal Strength Indicator (RSSI)}},
+  Author                   = {Iswandi and Nastiti, Herlina Tri and Praditya, Ina Eprilia and Mustika, I. Wayan},
+  Journal                  = {Proceedings - 2016 2nd International Conference on Science and Technology-Computer, ICST 2016},
+  Year                     = {2017},
+  Pages                    = {56--60},
+
+  Doi                      = {10.1109/ICSTC.2016.7877347},
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Iswandi et al. - 2017 - Evaluation of XBee-Pro transmission range for Wireless Sensor Network's node under forested environments based o.pdf:pdf},
+  ISBN                     = {9781509043576},
+  Keywords                 = {Foliage channel,Forest Monitoring,Wireless Sensor Networks,XBee,ZigBee,network coverage,wave propagation},
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18}
+}
+
+@Article{Khorov2015,
+  Title                    = {{A survey on IEEE 802.11 ah: An enabling networking technology for smart cities}},
+  Author                   = {Khorov, E and Lyakhov, A and Krotov, A and Guschin, A},
+  Journal                  = {Computer Communications},
+  Year                     = {2015},
+
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Khorov et al. - 2015 - A survey on IEEE 802.11 ah An enabling networking technology for smart cities.pdf:pdf},
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0140366414002989}
+}
+
+@Article{Kim2016,
+  Title                    = {{Using Wi-Fi and LoRa}},
+  Author                   = {Kim, Dong Hyun and Lim, Jun Young},
+  Journal                  = {2016 Ieee},
+  Year                     = {2016},
+  Pages                    = {1--3},
+
+  Doi                      = {10.1109/ICITCS.2016.7740351},
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Kim, Lim - 2016 - Using Wi-Fi and LoRa.pdf:pdf},
+  ISBN                     = {9781509037650},
+  Keywords                 = {11,broadcast packet loss,broadcasting system,burst loss,ieee802,index terms,iot,lora,lpwan,multi-,ulp}
+}
+
+@Article{Knight2016,
+  Title                    = {{Decoding LoRa : Realizing a Modern LPWAN with SDR}},
+  Author                   = {Knight, Matthew},
+  Journal                  = {Proceedings of the 6th GNU Radio Conference,},
+  Year                     = {2016},
+
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Knight - 2016 - Decoding LoRa Realizing a Modern LPWAN with SDR.pdf:pdf}
+}
+
+@Article{Lazarescu2013,
+  Title                    = {{Design of a WSN platform for long-term environmental monitoring for IoT applications}},
+  Author                   = {Lazarescu, Mihai T.},
+  Journal                  = {IEEE Journal on Emerging and Selected Topics in Circuits and Systems},
+  Year                     = {2013},
+  Number                   = {1},
+  Pages                    = {45--54},
+  Volume                   = {3},
+
+  Abstract                 = {The Internet of Things (IoT) provides a virtual view, via the Internet Protocol, to a huge variety of real life objects, ranging from a car, to a teacup, to a building, to trees in a forest. Its appeal is the ubiquitous generalized access to the status and location of any {\&}{\#}x201C;thing{\&}{\#}x201D; we may be interested in. Wireless sensor networks (WSN) are well suited for long-term environmental data acquisition for IoT representation. This paper presents the functional design and implementation of a complete WSN platform that can be used for a range of long-term environmental monitoring IoT applications. The application requirements for low cost, high number of sensors, fast deployment, long lifetime, low maintenance, and high quality of service are considered in the specification and design of the platform and of all its components. Low-effort platform reuse is also considered starting from the specifications and at all design levels for a wide array of related monitoring applications.},
+  Doi                      = {10.1109/JETCAS.2013.2243032},
+  File                     = {:D$\backslash$:/Users/pavil/MEGA/LoRaTesis/Bibliografia/Teoria/lazarescu2013.pdf:pdf},
+  ISBN                     = {2156-3357 VO - 3},
+  ISSN                     = {21563357},
+  Keywords                 = {Internet of Things (IoT),IoT applications,WSN optimized design,WSN platform,WSN protocol,long term environmental monitoring applications,wireless sensor networks (WSN)},
+  Owner                    = {darwin},
+  Pmid                     = {25912349},
+  Timestamp                = {2018.11.18}
+}
+
+@Article{Lee1985,
+  Title                    = {{Estimate of local average power of a mobile radio signal}},
+  Author                   = {Lee, WCY},
+  Journal                  = {IEEE Transactions on Vehicular Technology},
+  Year                     = {1985},
+
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18},
+  Url                      = {http://ieeexplore.ieee.org/abstract/document/1623289/}
+}
+
+@Article{LoRaAlliance2015,
+  Title                    = {{A technical overview of LoRa and LoRaWAN}},
+  Author                   = {{LoRa Alliance}},
+  Year                     = {2015},
+  Number                   = {November},
+  Pages                    = {1--20},
+
+  Abstract                 = {The purpose of this document is to give an introductory technical overview to LoRa{\textregistered} and LoRaWAN™. Low–Power, Wide-Area Networks (LPWAN) are projected to support a major portion of the billions of devices forecasted for the Internet of Things (IoT). LoRaWAN™ is designed from the bottom up to optimize LPWANs for battery lifetime, capacity, range, and cost. A summary of the LoRaWAN™ specification for the different regions will be given as well as high level comparison of the different technologies competing in the LPWAN space.},
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/LoRa Alliance - 2015 - A technical overview of LoRa and LoRaWAN.pdf:pdf},
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18},
+  Url                      = {https://www.lora-alliance.org/portals/0/documents/whitepapers/LoRaWAN101.pdf}
+}
+
+@Book{Mendenhall2010,
+  Title                    = {{Introducci{\'{o}}n a la probabilidad y estad{\'{i}}stica}},
+  Author                   = {Mendenhall, William and Beaver, Robert and Beaver, Barbara},
+  Editor                   = {{Cengage Learning Editores SA de CV}},
+  Year                     = {2010},
+
+  Abstract                 = {Estad{\'{i}}stica},
+  Booktitle                = {Introducci{\'{o}}n a la probabilidad y estad{\'{i}}stica},
+  File                     = {:D$\backslash$:/Users/pavil/MEGA/LoRaTesis/Bibliografia/Teoria/Mendenhall{\_}Prob{\_}Estadistica{\_}13.pdf:pdf},
+  ISBN                     = {9780495389538},
+  Owner                    = {darwin},
+  Pages                    = {780},
+  Timestamp                = {2018.11.18},
+  Url                      = {{http://investigadores.cide.edu/aparicio/data/refs/Mendenhall_Prob_Estadistica_13.pdf}}
+}
+
+@Article{Meng2008,
+  Title                    = {{Investigation of rainfall effect on forested radio wave propagation}},
+  Author                   = {Meng, Yu Song and Lee, Yee Hui and Ng, Boon Chong},
+  Journal                  = {IEEE Antennas and Wireless Propagation Letters},
+  Year                     = {2008},
+  Pages                    = {159--162},
+  Volume                   = {7},
+
+  Abstract                 = {In this paper, the rainfall is found to have distinct effect on various parts of the propagating components for the VHF radio wave propagation in a tropical forest. By the studies of the measured power delay profiles under different weather conditions, it is observed that the lateral wave is the dominant mode of the VHF propagation and is not affected by the presence of rain as it is similar to free space propagation over the tree tops, while the significant multipath components which propagate through the forest medium is heavily influenced. This is again verified through the estimated delay spread statistics.},
+  Doi                      = {10.1109/LAWP.2008.922052},
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Meng, Lee, Ng - 2008 - Investigation of rainfall effect on forested radio wave propagation.pdf:pdf},
+  ISSN                     = {15361225},
+  Keywords                 = {Delay spread,Forest,Propagation,Rainfall effect,VHF},
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18}
+}
+
+@InCollection{Microchip,
+  Title                    = {{Getting Up and Running with LoRaWAN™ Long-Range Networking}},
+  Author                   = {Microchip},
+
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Microchip - Unknown - Getting Up and Running with LoRaWAN™ Long-Range Networking.pdf:pdf},
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18}
+}
+
+@Article{Microchip2017,
+  Title                    = {{RN2903 Datasheet}},
+  Author                   = {Microchip},
+  Year                     = {2017},
+  Pages                    = {1--26},
+
+  File                     = {:D$\backslash$:/Users/pavil/MEGA/LoRaTesis/Bibliografia/Especificaciones/GuiasUsuario/50002390C.pdf:pdf},
+  Keywords                 = {50002390,50002390C,DS50002390,DS50002390C,LoRa Technology,RN2903,RN2903 LoRa Technology Transceiver Module Data She},
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18}
+}
+
+@Book{Microchip2016,
+  Title                    = {{LoRa Technology Gateway User's Guide}},
+  Author                   = {Microchip},
+  Year                     = {2016},
+
+  File                     = {:D$\backslash$:/Users/pavil/MEGA/LoRaTesis/Bibliografia/Especificaciones/GuiasUsuario/40001827A.pdf:pdf},
+  ISBN                     = {9781522402893},
+  Keywords                 = {40001827,40001827A,DS40001827,DS40001827A},
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18}
+}
+
+@Book{Microchip2016a,
+  Title                    = {{LoRa Technology Evaluation Suite User's Guide}},
+  Author                   = {Microchip},
+  Year                     = {2016},
+
+  Abstract                 = {Note the following details of the code protection feature on Microchip devices: • Microchip products meet the specification contained in their particular Microchip Data Sheet. • Microchip believes that its family of products is one of the most secure families of its kind on the market today, when used in the intended manner and under normal conditions. • There are dishonest and possibly illegal methods used to breach the code protection feature. All of these methods, to our knowledge, require using the Microchip products in a manner outside the operating specifications contained in Microchip's Data Sheets. Most likely, the person doing so is engaged in theft of intellectual property. • Microchip is willing to work with the customer who is concerned about the integrity of their code. • Neither Microchip nor any other semiconductor manufacturer can guarantee the security of their code. Code protection does not mean that we are guaranteeing the product as " unbreakable. " Code protection is constantly evolving. We at Microchip are committed to continuously improving the code protection features of our products. Attempts to break Microchip's code protection feature may be a violation of the Digital Millennium Copyright Act. If such acts allow unauthorized access to your software or other copyrighted work, you may have a right to sue for relief under that Act. Microchip received ISO/TS-16949:2009 certification for its worldwide headquarters, design and wafer fabrication facilities in Chandler and Tempe, Arizona; Gresham, Oregon and design centers in California and India. The Company's quality system processes and procedures are for its PIC {\textregistered} MCUs and dsPIC {\textregistered} DSCs, KEELOQ {\textregistered} code hopping devices, Serial EEPROMs, microperipherals, nonvolatile memory and analog products. In addition, Microchip's quality system for the design and manufacture of development systems is ISO 9001:2000 certified.},
+  File                     = {:D$\backslash$:/Users/pavil/MEGA/LoRaTesis/Bibliografia/Especificaciones/GuiasUsuario/40001847A.pdf:pdf},
+  ISBN                     = {9781522405498},
+  Keywords                 = {40001847,40001847A,DS40001847,DS40001847A},
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18}
+}
+
+@Book{Information2015,
+  Title                    = {{RN2903 Command Reference User's Guide}},
+  Author                   = {Microchip},
+  Year                     = {2015},
+
+  File                     = {:D$\backslash$:/Users/pavil/MEGA/LoRaTesis/Bibliografia/Especificaciones/GuiasUsuario/40001811A.pdf:pdf},
+  ISBN                     = {9781632776907},
+  Keywords                 = {40001811,40001811A,DS40001811,DS40001811A},
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18}
+}
+
+@Misc{MicrochipTechnologyInc.,
+  Title                    = {{LoRa(R) Technology Evaluation Kit - 900 - dv164140-2}},
+
+  Author                   = {{Microchip Technology Inc.}},
+
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18},
+  Url                      = {http://www.microchip.com/DevelopmentTools/ProductDetails.aspx?PartNO=dv164140-2},
+  Urldate                  = {2017-09-20}
+}
+
+@Book{User2016,
+  Title                    = {{LoRa {\textregistered} Mote User's Guide}},
+  Author                   = {{Microchip Technology Inc.}},
+  Year                     = {2016},
+
+  File                     = {:D$\backslash$:/Users/pavil/MEGA/LoRaTesis/Bibliografia/Especificaciones/GuiasUsuario/LoRa Mote Users Guide.pdf:pdf},
+  ISBN                     = {9781522405504},
+  Keywords                 = {40001808,40001808B,DS40001808,DS40001808B},
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18}
+}
+
+@Book{User2016,
+  Title                    = {{LoRa {\textregistered} Mote User's Guide}},
+  Author                   = {{Microchip Technology Inc.}},
+  Year                     = {2016},
+
+  File                     = {:D$\backslash$:/Users/pavil/MEGA/LoRaTesis/Bibliografia/Especificaciones/GuiasUsuario/LoRa Mote Users Guide.pdf:pdf},
+  ISBN                     = {9781522405504},
+  Keywords                 = {40001808,40001808B,DS40001808,DS40001808B},
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18}
+}
+
+@InProceedings{Mikhaylov2016,
+  Title                    = {{On the Coverage of LPWANs: Range Evaluation and Channel Attenuation Model for LoRa Technology}},
+  Author                   = {Mikhaylov, Konstantin},
+  Booktitle                = {{ITS Telecommunications (ITST), 2015 14th International Conference on}},
+  Year                     = {2016},
+  Pages                    = {55--59},
+
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Mikhaylov - 2016 - On the Coverage of LPWANs Range Evaluation and Channel Attenuation Model for LoRa Technology.pdf:pdf},
+  ISBN                     = {9781467393829},
+  Keywords                 = {boat,car,coverage,iot,lpwan,path loss exponent,path loss intercept,range,wsn}
+}
+
+@Article{Mikhaylov2016a,
+  Title                    = {{Analysis of Capacity and Scalability of the LoRa Low Power Wide Area Network Technology}},
+  Author                   = {Mikhaylov, Konstantin and Pet{\"{a}}j{\"{a}}j{\"{a}}rvi, Juha and H{\"{a}}nninen, Tuomo},
+  Journal                  = {European Wireless 2016},
+  Year                     = {2016},
+  Pages                    = {119--124},
+
+  Abstract                 = {—In this paper we discuss and analyze the recently proposed LoRa low power wide area network (LPWAN) technology when used under the European frequency regulations. First of all, we derive the performance metrics of a single LoRaWAN end device, namely uplink throughput and data transmission time. Then we analyze for several illustrative application scenarios the maximum number of end devices which can be served by a single LoRaWAN base station and discuss the spatial distribution of these devices. It is shown that subject to the channel composition and application requirements, a single cell may include several millions of devices. Also, we show that the capacity of the uplink channel available to a LoRaWAN node strongly depends on the distance from the base station and does not exceed 2 kbit/s. In the concluding section we summarize and discuss the obtained results, and point out few issues which need to be taken into account when making an application using LoRa or deploying a LoRa network.},
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Mikhaylov, Pet{\"{a}}j{\"{a}}j{\"{a}}rvi, H{\"{a}}nninen - 2016 - Analysis of Capacity and Scalability of the LoRa Low Power Wide Area Network Technology.pdf:pdf},
+  ISBN                     = {9783800742219},
+  Keywords                 = {1,10mbit,communication,fig,iot,link budget and settings,long range,lora,low power,lpwan,network,s throughput subject to,typical lpwan network landscape,wide area,wireless}
+}
+
+@Article{Muzaffar2016,
+  Title                    = {{Long-Range Wireless Sensor Networks for Geo-location Tracking : Design and Evaluation}},
+  Author                   = {Muzaffar, Ahmad and Yan, Wanglin},
+  Journal                  = {18th International Electronics Symposium (IES), Bali, Indonesia, 29-30th September 2016},
+  Year                     = {2016},
+  Pages                    = {76--80},
+
+  File                     = {:D$\backslash$:/Users/pavil/MEGA/LoRaTesis/Bibliografia/RSSI/baharudin2016.pdf:pdf},
+  ISBN                     = {9781509016402},
+  Keywords                 = {geo-location tracking,internet of,long,lora,mobile objects,range,wireless sensor networks,wsn},
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18},
+  Url                      = {http://www.slideshare.net/AhmadMuzaffarbinBaha/longrange-wireless-sensor-networks-for-geolocation-tracking-design-and-evaluation}
+}
+
+@Article{Muzaffar2016,
+  Title                    = {{Long-Range Wireless Sensor Networks for Geo-location Tracking : Design and Evaluation}},
+  Author                   = {Muzaffar, Ahmad and Yan, Wanglin},
+  Journal                  = {18th International Electronics Symposium (IES), Bali, Indonesia, 29-30th September 2016},
+  Year                     = {2016},
+  Pages                    = {76--80},
+
+  File                     = {:D$\backslash$:/Users/pavil/MEGA/LoRaTesis/Bibliografia/RSSI/baharudin2016.pdf:pdf},
+  ISBN                     = {9781509016402},
+  Keywords                 = {geo-location tracking,internet of,long,lora,mobile objects,range,wireless sensor networks,wsn},
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18},
+  Url                      = {http://www.slideshare.net/AhmadMuzaffarbinBaha/longrange-wireless-sensor-networks-for-geolocation-tracking-design-and-evaluation}
+}
+
+@Article{Nazeema,
+  Title                    = {{Millimeter wave Propagation Measurments in Forest for 5G Wireless Sensor Communications}},
+  Author                   = {Nazeema, N},
+  Journal                  = {researchgate.net},
+
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Nazeema - Unknown - Millimeter wave Propagation Measurments in Forest for 5G Wireless Sensor Communications.pdf:pdf},
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18}
+}
+
+@Article{Neumann2016,
+  Title                    = {{Indoor deployment of low-power wide area networks (LPWAN): A LoRaWAN case study}},
+  Author                   = {Neumann, P and Montavont, J and No{\"{e}}l, T},
+  Journal                  = {Wireless and Mobile},
+  Year                     = {2016},
+
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18},
+  Url                      = {http://ieeexplore.ieee.org/abstract/document/7763213/}
+}
+
+@Misc{Avila2017,
+  Title                    = {Lora},
+
+  Author                   = {Pablo, Avila and Fabian, Astudillo-Salinas and Andres, Vazquez-Rodas and Alcides, Araujo},
+  HowPublished             = {\url{https://github.com/pavilac/lora}},
+  Year                     = {2017},
+
+  Journal                  = {GitHub repository},
+  Publisher                = {GitHub}
+}
+
+@Article{Palaios2016,
+  Title                    = {{Propagation Models for Users Crossing Forest Areas in Central European Forest Environments}},
+  Author                   = {Palaios, Alexandros and Singh, Kushwah Nagendra and Petri, M},
+  Journal                  = {IEEE Waveforms and Signal Processing Propagation},
+  Year                     = {2016},
+  Pages                    = {14--19},
+
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Palaios, Singh, Petri - 2016 - Propagation Models for Users Crossing Forest Areas in Central European Forest Environments.pdf:pdf},
+  ISBN                     = {9781509037810},
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18}
+}
+
+@Article{Petajajarvi2016,
+  Title                    = {{Evaluation of LoRa LPWAN technology for remote health and wellbeing monitoring}},
+  Author                   = {Pet{\"{a}}j{\"{a}}j{\"{a}}rvi, J and Mikhaylov, K},
+  Journal                  = {(ISMICT), 2016 10th {\ldots}},
+  Year                     = {2016},
+
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Pet{\"{a}}j{\"{a}}j{\"{a}}rvi, Mikhaylov - 2016 - Evaluation of LoRa LPWAN technology for remote health and wellbeing monitoring.pdf:pdf},
+  Url                      = {http://ieeexplore.ieee.org/abstract/document/7498898/}
+}
+
+@Article{Petric2016,
+  Title                    = {{Measurements, performance and analysis of LoRa FABIAN, a real-world implementation of LPWAN}},
+  Author                   = {Petri{\'{c}}, Tara and Goessens, Mathieu and Nuaymi, Loutfi and Toutain, Laurent and Pelov, Alexander},
+  Journal                  = {IEEE International Symposium on Personal, Indoor and Mobile Radio Communications, PIMRC},
+  Year                     = {2016},
+  Pages                    = {1--7},
+
+  Abstract                 = {Up to recently, two main approaches were used for connecting the "things" in the growing Internet of Things (IoT)-one based on multi-hop mesh networks , using short-range technologies and unlicensed spectrum, and the other based on long-range cellular network technologies using corresponding licensed frequency bands. New type of connectivity used in Low-Power Wide Area networks (LPWAN), challenges these approaches by using low-rate long-range transmission technologies in unlicensed sub-GHz frequency bands. In this paper, we do performance testing on one such star-topology network, based on Semtech's LoRa TM technology, and deployed in the city of Rennes-LoRa FABIAN. In order to check the quality of service (QoS) that this network can provide, generally and in given conditions, we conducted a set of performance measurements. We performed our tests by generating and then observing the traffic between IoT nodes and LoRa TM IoT stations using our LoRa FABIAN protocol stack. With our experimental setup, we were able to generate traffic very similar to the one that can be used by real application such as sensor monitoring. This let us extract basic performance metrics, such as packet error rate (PER), but also metrics related specifically to the LoRa physical layer, such as the Received Signal Strength Indicator (RSSI) and Signal to Noise ratio (SNR), within various conditions. Our findings provide insight about the performance of LoRa networks, but also about evaluation methods for these type of networks. We gathered measurement data that we make freely available together with the tools we used.},
+  Doi                      = {10.1109/PIMRC.2016.7794569},
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Petri{\'{c}} et al. - 2016 - Measurements, performance and analysis of LoRa FABIAN, a real-world implementation of LPWAN.pdf:pdf},
+  ISBN                     = {9781509032549},
+  Keywords                 = {IoT communication needs,LPWAN,LoRa performance,access networks,long-range radio}
+}
+
+@Article{Rahman2017,
+  Title                    = {{The development of IoT LoRa: A performance evaluation on LoS and Non-LoS environment at 915 MHz ISM frequency}},
+  Author                   = {Rahman, Arrief and Suryanegara, Muhammad},
+  Journal                  = {Proceedings - International Conference on Signals and Systems, ICSigSys 2017},
+  Year                     = {2017},
+  Pages                    = {163--167},
+
+  Doi                      = {10.1109/ICSIGSYS.2017.7967033},
+  File                     = {:D$\backslash$:/Users/pavil/MEGA/LoRaTesis/Bibliografia/RSSI/10.1109@ICSIGSYS.2017.7967033.pdf:pdf},
+  ISBN                     = {9781509067480},
+  Keywords                 = {Internet of Things,LoRa Technology,Sensor,Wireless Communication},
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18}
+}
+
+@Article{RamaRao2012,
+  Title                    = {{RF propagation measurements in forest {\&} plantation environments for Wireless Sensor Networks}},
+  Author                   = {{Rama Rao}, T. and Balachander, D. and {Nanda Kiran}, A. and Oscar, S.},
+  Journal                  = {International Conference on Recent Trends in Information Technology, ICRTIT 2012},
+  Year                     = {2012},
+  Pages                    = {308--313},
+
+  Abstract                 = {This work reports Received Signal Strength (RSS) at 868/915/2400 MHz utilizing RF equipment and Matlab simulations in Forest and Plantation (Mango {\&} Guava) Environments. Path loss, Vegetation water content and corresponding Cumulative Distribution Function (CDF) values were deduced from the measured RSS from various positions in foliage environments using unit gain omnidirectional antennas at 1m height from the ground. Empirical foliage loss prediction models such as Cost 235, ITU-R and Weissberger models were compared with the experimental results. The research work presented in this paper is predominately targets characterizing short-range near ground radio link for Wireless Sensor Communications/Networks in vegetation environments.},
+  Doi                      = {10.1109/ICRTIT.2012.6206765},
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Rama Rao et al. - 2012 - RF propagation measurements in forest {\&} plantation environments for Wireless Sensor Networks.pdf:pdf},
+  ISBN                     = {9781467316019},
+  Keywords                 = {Near Ground,Pathloss,RF Link Propagation,Received Signal Strength,Vegetation Environments,Vegetation Water Content,Wireless Sensor Networks,short-range},
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18}
+}
+
+@Misc{Rpi,
+  Title                    = {{Raspberry Pi 3 Model B - Raspberry Pi}},
+
+  Author                   = {{Rpi Foundation}},
+
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18},
+  Url                      = {https://www.raspberrypi.org/products/raspberry-pi-3-model-b/},
+  Urldate                  = {2017-09-21}
+}
+
+@TechReport{Semtech2015,
+  Title                    = {{LoRa Modulation Basics}},
+  Author                   = {Semtech},
+  Institution              = {Semtech},
+  Year                     = {2015},
+  Number                   = {May},
+
+  Abstract                 = {LoRa is a proprietary spread spectrum modulation scheme that is derivative of Chirp Spread Spectrum modulation (CSS) and which trades data rate for sensitivity within a fixed channel bandwidth. It implements a variable data rate, utilizing orthogonal spreading factors, which allows the system designer to trade data rate for range or power, so as to optimize network performance in a constant bandwidth.},
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Semtech - 2015 - LoRa Modulation Basics.pdf:pdf},
+  Owner                    = {darwin},
+  Pages                    = {1--26},
+  Timestamp                = {2018.11.18},
+  Url                      = {http://www.semtech.com/images/datasheet/an1200.22.pdf}
+}
+
+@Article{Semtech2013,
+  Title                    = {{SX1231 Transceiver Datasheet}},
+  Author                   = {Semtech},
+  Year                     = {2013},
+  Number                   = {June},
+
+  File                     = {:D$\backslash$:/Users/pavil/MEGA/LoRaTesis/Bibliografia/RSSI/sx1231.pdf:pdf},
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18}
+}
+
+@Article{Sinha2017,
+  Title                    = {{A survey on LPWA technology: LoRa and NB-IoT}},
+  Author                   = {Sinha, Rashmi Sharan and Wei, Yiqiao and Hwang, Seung-Hoon},
+  Journal                  = {ICT Express},
+  Year                     = {2017},
+  Number                   = {1},
+  Pages                    = {14--21},
+  Volume                   = {3},
+
+  Abstract                 = {By 2020, more than twenty five billion devices would be connected through wireless communications. According to the rapid growth of Internet of Things (IoT) market, Low Power Wide Area (LPWA) technologies become popular. In various LPWA technologies, NarrowBand (NB)-IoT and Long Range (LoRa) are two leading technologies. In this paper, we provide a comprehensive survey on NB-IoT and LoRa as efficient solutions connecting the devices. It is shown that unlicensed LoRa has the advantage in terms of battery lifetime, capacity and cost. Meanwhile, licensed NB-IoT gives benefits in terms of QoS, latency, reliability and range.},
+  Doi                      = {10.1016/j.icte.2017.03.004},
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Sinha, Wei, Hwang - 2017 - A survey on LPWA technology LoRa and NB-IoT.pdf:pdf},
+  ISBN                     = {2405-9595},
+  ISSN                     = {24059595},
+  Keywords                 = {iot,lora,lpwa,mmtc,nb-iot},
+  Publisher                = {Elsevier Ltd},
+  Url                      = {http://linkinghub.elsevier.com/retrieve/pii/S2405959517300061}
+}
+
+@Article{Smith2016,
+  Title                    = {{Boreal Forest Low Antenna Height Propagation Measurements}},
+  Author                   = {Smith, Devin P. and Messier, Geoffrey G. and Wasson, Michael W.},
+  Journal                  = {IEEE Transactions on Antennas and Propagation},
+  Year                     = {2016},
+  Number                   = {9},
+  Pages                    = {4004--4011},
+  Volume                   = {64},
+
+  Doi                      = {10.1109/TAP.2016.2583490},
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Smith, Messier, Wasson - 2016 - Boreal Forest Low Antenna Height Propagation Measurements.pdf:pdf},
+  ISBN                     = {0018-926X
+1558-2221},
+  ISSN                     = {0018926X},
+  Keywords                 = {Antenna arrays,Radio communication,digital communication,propagation},
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18}
+}
+
+@Article{So2016,
+  Title                    = {{LoRaCloud: LoRa platform on OpenStack}},
+  Author                   = {So, Jaeyoung and Kim, Daehwan and Kim, Hongseok and Lee, Hyunseok and Park, Suwon},
+  Journal                  = {IEEE NETSOFT 2016 - 2016 IEEE NetSoft Conference and Workshops: Software-Defined Infrastructure for Networks, Clouds, IoT and Services},
+  Year                     = {2016},
+  Pages                    = {431--434},
+
+  Abstract                 = {—In this paper, we discuss the implementation of LoRa network server on OpenStack. LoRa is a type of low power wide area wireless network protocols for Internet of Thing applications. We restructured the operations of LoRa network server so it can be flexible and scalable by exploiting the system services provided by OpenStack. For validation, we have established an experimental system by using available open sources for LoRa terminal, LoRa gateway, and OpenStack.},
+  Doi                      = {10.1109/NETSOFT.2016.7502471},
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/So et al. - 2016 - LoRaCloud LoRa platform on OpenStack.pdf:pdf},
+  ISBN                     = {9781467394864}
+}
+
+@InProceedings{Soltani2014,
+  Title                    = {{Covert single-hop communication in a wireless network with distributed artificial noise generation}},
+  Author                   = {Soltani, Ramin and Bash, Boulat and Goeckel, Dennis and Guha, Saikat and Towsley, Don},
+  Booktitle                = {2014 52nd Annual Allerton Conference on Communication, Control, and Computing (Allerton)},
+  Year                     = {2014},
+  Month                    = {sep},
+  Pages                    = {1078--1085},
+  Publisher                = {IEEE},
+
+  Doi                      = {10.1109/ALLERTON.2014.7028575},
+  ISBN                     = {978-1-4799-8009-3},
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18},
+  Url                      = {http://ieeexplore.ieee.org/document/7028575/}
+}
+
+@TechReport{N.SorninSemtechM.LuisSemtechT.EirichIBMT.KrampIBM2015,
+  Title                    = {{LoRaWAN ™ Specification}},
+  Author                   = {Sornin, N (Semtech) and Luis, M (Semtech) and Eirich, T (IBM) and Kramp, T (IBM) and Hersent, O (Actility)},
+  Institution              = {LoRa Alliance},
+  Year                     = {2015},
+
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/N. Sornin (Semtech), M. Luis (Semtech), T. Eirich (IBM), T. Kramp (IBM) - 2015 - LoRaWAN ™ Specification.pdf:pdf},
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18}
+}
+
+@Article{Stan2017,
+  Title                    = {{Overview of high reliable radio data infrastructures for public automation applications: LoRa networks}},
+  Author                   = {Stan, Valentin Alexandru and Timnea, Radu Serban and Gheorghiu, Razvan Andrei},
+  Journal                  = {Proceedings of the 8th International Conference on Electronics, Computers and Artificial Intelligence, ECAI 2016},
+  Year                     = {2017},
+  Pages                    = {978--981},
+
+  Doi                      = {10.1109/ECAI.2016.7861130},
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Stan, Timnea, Gheorghiu - 2017 - Overview of high reliable radio data infrastructures for public automation applications LoRa networks.pdf:pdf},
+  ISBN                     = {9781509020461},
+  Keywords                 = {Data transport,LoRa,Radio infrastructure,Smart City infrastructure,Wireless}
+}
+
+@Article{Vangelista2015,
+  Title                    = {{Long-range IoT technologies: The dawn of LoRaTM}},
+  Author                   = {Vangelista, Lorenzo and Zanella, Andrea and Zorzi, Michele},
+  Journal                  = {Lecture Notes of the Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering, LNICST},
+  Year                     = {2015},
+  Number                   = {Fabulous},
+  Pages                    = {51--58},
+  Volume                   = {159},
+
+  Abstract                 = {The last years have seen the widespread diffusion of novel Low Power Wide Area Network (LPWAN) technologies, which are gain-ing momentum and commercial interest as enabling technologies for the Internet of Things. In this paper we discuss some of the most interest-ing LPWAN solutions, focusing in particular on LoRa TM , one of the last born and most promising technologies for the wide-area IoT.},
+  Doi                      = {10.1007/978-3-319-27072-2_7},
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Vangelista, Zanella, Zorzi - 2015 - Long-range IoT technologies The dawn of LoRaTM(2).pdf:pdf},
+  ISBN                     = {9783319270715},
+  ISSN                     = {18678211},
+  Keywords                 = {5G,Internet of things,Low-power wide area},
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18}
+}
+
+@Book{Webster2000,
+  Title                    = {{Estadistica Aplicada a los Negocios}},
+  Author                   = {Webster, Allen L.},
+  Year                     = {2000},
+
+  Address                  = {Bogot{\'{a}}},
+
+  File                     = {:D$\backslash$:/Users/pavil/MEGA/LoRaTesis/Bibliografia/Teoria/libro-estadistica-aplicada-negocios.pdf:pdf},
+  Owner                    = {darwin},
+  Pages                    = {651},
+  Timestamp                = {2018.11.18}
+}
+
+@Misc{WirelessPersonalAreaNetworkWPANWorkingGroup,
+  Title                    = {{IEEE 802.15.4 - IEEE Standard for Low-Rate Wireless Networks}},
+
+  Author                   = {{Wireless Personal Area Network (WPAN) Working Group}},
+
+  Abstract                 = {The protocol and compatible interconnection for data communication devices using low-data-rate, low-power, and low-complexity short-range radio frequency (RF) transmissions in a wireless personal area network (WPAN) are defined in this standard. A variety of physical layers (PHYs) have been defined that cover a wide variety of frequency bands. (The PDF of the standard is available at no cost at http://standards.ieee.org/about/get/802/802.15.html compliments of the GETIEEE standards program)},
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18},
+  Url                      = {https://standards.ieee.org/findstds/standard/802.15.4-2015.html}
+}
+
+@Article{Wixted2017,
+  Title                    = {{Evaluation of LoRa and LoRaWAN for wireless sensor networks}},
+  Author                   = {Wixted, Andrew J. and Kinnaird, Peter and Larijani, Hadi and Tait, Alan and Ahmadinia, Ali and Strachan, Niall},
+  Journal                  = {Proceedings of IEEE Sensors},
+  Year                     = {2017},
+  Pages                    = {5--7},
+  Volume                   = {0},
+
+  Doi                      = {10.1109/ICSENS.2016.7808712},
+  File                     = {:C$\backslash$:/Users/pavil/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Wixted et al. - 2017 - Evaluation of LoRa and LoRaWAN for wireless sensor networks.pdf:pdf},
+  ISBN                     = {9781479982875},
+  ISSN                     = {21689229}
+}
+
+@Misc{wwf2016,
+  Title                    = {{Importance of Forests | WWF}},
+
+  Author                   = {WWF},
+  Year                     = {2016},
+
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18},
+  Url                      = {{http://wwf.panda.org/about_our_earth/deforestation/importance_forests/}},
+  Urldate                  = {2017-08-28}
+}
+
+@Article{Zheng2011,
+  Title                    = {{An improved RSSI measurement in wireless sensor networks}},
+  Author                   = {Zheng, Jungang and Wu, Chengdong and Chu, Hao and Xu, Yang},
+  Journal                  = {Procedia Engineering},
+  Year                     = {2011},
+  Pages                    = {876--880},
+  Volume                   = {15},
+
+  Abstract                 = {Node localization is one of the basic problem in wireless sensor networks. The localization method based on RSSI measurement is studied in this paper. Because the RF signals is affected by the environment, the exact distance between the nodes can not obtain by RSSI measurement. The parameters of measurement model are determined by anchor nodes, and further correct the measurement data, which can reduce the measurement error. The above methods can effectively reduce the measurement error. The improved RSSI measurment can improve the accuracy of the unknown nodes localization. ?? 2011 Published by Elsevier Ltd. ?? 2011 Published by Elsevier Ltd.},
+  Doi                      = {10.1016/j.proeng.2011.08.162},
+  File                     = {:D$\backslash$:/Users/pavil/MEGA/LoRaTesis/Bibliografia/RSSI/1-s2.0-S1877705811016638-main.pdf:pdf},
+  ISSN                     = {18777058},
+  Keywords                 = {Correction,Node,RSSI measurement,Wireless sensor networks},
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18},
+  Url                      = {http://dx.doi.org/10.1016/j.proeng.2011.08.162}
+}
+
+@Article{Zheng2011,
+  Title                    = {{An improved RSSI measurement in wireless sensor networks}},
+  Author                   = {Zheng, Jungang and Wu, Chengdong and Chu, Hao and Xu, Yang},
+  Journal                  = {Procedia Engineering},
+  Year                     = {2011},
+  Pages                    = {876--880},
+  Volume                   = {15},
+
+  Abstract                 = {Node localization is one of the basic problem in wireless sensor networks. The localization method based on RSSI measurement is studied in this paper. Because the RF signals is affected by the environment, the exact distance between the nodes can not obtain by RSSI measurement. The parameters of measurement model are determined by anchor nodes, and further correct the measurement data, which can reduce the measurement error. The above methods can effectively reduce the measurement error. The improved RSSI measurment can improve the accuracy of the unknown nodes localization. ?? 2011 Published by Elsevier Ltd. ?? 2011 Published by Elsevier Ltd.},
+  Doi                      = {10.1016/j.proeng.2011.08.162},
+  File                     = {:D$\backslash$:/Users/pavil/MEGA/LoRaTesis/Bibliografia/RSSI/1-s2.0-S1877705811016638-main.pdf:pdf},
+  ISSN                     = {18777058},
+  Keywords                 = {Correction,Node,RSSI measurement,Wireless sensor networks},
+  Owner                    = {darwin},
+  Timestamp                = {2018.11.18},
+  Url                      = {http://dx.doi.org/10.1016/j.proeng.2011.08.162}
+}
+
